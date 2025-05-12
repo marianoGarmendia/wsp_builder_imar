@@ -1,0 +1,81 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3A849400AB89B056F5F8',
+    participant: undefined
+  },
+  messageTimestamp: 1746885167,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'Hola',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5491130899567'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
+  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491136131454@s.whatsapp.net',
+    fromMe: false,
+    id: '08F512DB97314A7FAB1C5B782F88926A',
+    participant: undefined
+  },
+  messageTimestamp: 1746885191,
+  pushName: 'Diego',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola !!!!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola !!!!',
+  name: 'Diego',
+  from: '5491136131454',
+  host: '5491130899567'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
+  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+}
