@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5492214371684@s.whatsapp.net',
     fromMe: false,
-    id: '3A849400AB89B056F5F8',
+    id: '3EB04D601592D090DC283C',
     participant: undefined
   },
-  messageTimestamp: 1746885167,
+  messageTimestamp: 1748975626,
   pushName: 'Mariano Garmendia',
   broadcast: false,
   message: Message {
@@ -13,18 +13,19 @@
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
     }
   },
   verifiedBizName: 'Mariano Garmendia',
   body: 'Hola',
   name: 'Mariano Garmendia',
   from: '5492214371684',
-  host: '5491130899567'
+  host: '5492213091076'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
-  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -37,34 +38,36 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5491136131454@s.whatsapp.net',
+    remoteJid: '5492214371684@s.whatsapp.net',
     fromMe: false,
-    id: '08F512DB97314A7FAB1C5B782F88926A',
+    id: '3EB078D68E958EA208263F',
     participant: undefined
   },
-  messageTimestamp: 1746885191,
-  pushName: 'Diego',
+  messageTimestamp: 1748975639,
+  pushName: 'Mariano Garmendia',
   broadcast: false,
   message: Message {
-    conversation: 'Hola !!!!',
+    conversation: 'quiero gestionar la internacion de mi tio',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
     }
   },
-  body: 'Hola !!!!',
-  name: 'Diego',
-  from: '5491136131454',
-  host: '5491130899567'
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'quiero gestionar la internacion de mi tio',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
-  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -77,5 +80,215 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB055E3A3D724DB8DEEB6',
+    participant: undefined
+  },
+  messageTimestamp: 1748975647,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: 'juan gomez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'juan gomez',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EA6537BDE1151B60F9',
+    participant: undefined
+  },
+  messageTimestamp: 1748975658,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: 'mariano perez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'mariano perez',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB058E76DED4D3133D4E9',
+    participant: undefined
+  },
+  messageTimestamp: 1748975664,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: 'ospe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'ospe',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095DFCCEB6EC991170E',
+    participant: undefined
+  },
+  messageTimestamp: 1748975677,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: 'contacto@marianodev.site',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: 'contacto@marianodev.site',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492214371684@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB064CB74C4942CA58855',
+    participant: undefined
+  },
+  messageTimestamp: 1748975688,
+  pushName: 'Mariano Garmendia',
+  broadcast: false,
+  message: Message {
+    conversation: '55666789',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
+    }
+  },
+  verifiedBizName: 'Mariano Garmendia',
+  body: '55666789',
+  name: 'Mariano Garmendia',
+  from: '5492214371684',
+  host: '5492213091076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cf50a714-e621-45ed-8d7f-cf7bf5dfcdc6',
+  keyword: 'key_42d48187-ec81-404a-8acc-d018f6f8ebad',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '172d96d4e3a9b0cf4a7c96f0f51b9aeb'
 }
