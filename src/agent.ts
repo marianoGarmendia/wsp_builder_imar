@@ -2,9 +2,11 @@ export const chatAgent = async (message: string, ctx: any) => {
   const from: string = ctx.from;
   console.log("ctx", ctx);
 
+  let url = "https://agentebasicoimar-production-7a72.up.railway.app/agent"
+
   try {
     const response = await fetch(
-      "https://agentebasicoimar-production-7a72.up.railway.app/agent",
+      url,
       {
         method: "POST",
         headers: {

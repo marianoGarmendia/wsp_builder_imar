@@ -29,7 +29,11 @@ const userLocks = new Map(); // New lock mechanism
  */
 const processUserMessage = async (ctx, { flowDynamic, state, provider }) => {
   await typing(ctx, provider);
+
+  console.log("ctx enviado por usuario: ", ctx);
+
   const response = await chatAgent(ctx.body, ctx);
+
   console.log("response desde app.ts: ", response);
 
   // Split the response into chunks and send them sequentially
@@ -71,6 +75,12 @@ const handleQueue = async (userId) => {
  * @type {import('@builderbot/bot').Flow<Provider, MemoryDB>}
  */
 
+const flowVoiceNote = addKeyword<Provider, MemoryDB>(
+  EVENTS.VOICE_NOTE
+).addAnswer(
+  "Por favor envía solo mensajes de texto. No puedo escuchar audios en este momento."
+);
+
 const welcomeFlow = addKeyword<Provider, MemoryDB>(EVENTS.WELCOME).addAction(
   async (ctx, { flowDynamic, state, provider }) => {
     const userId = ctx.from; // Use the user's ID to create a unique queue for each user
@@ -94,7 +104,7 @@ const main = async () => {
   const provider = createProvider(Provider);
 
   const { handleCtx, httpServer } = await createBot({
-    flow: createFlow([welcomeFlow]),
+    flow: createFlow([welcomeFlow, flowVoiceNote]),
     database: new MemoryDB(),
     provider: provider,
   });

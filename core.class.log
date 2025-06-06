@@ -1,0 +1,373 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492213091076@s.whatsapp.net',
+    fromMe: false,
+    id: 'F70E47778491384100BCA64D4EE94864',
+    participant: undefined
+  },
+  messageTimestamp: 1749234698,
+  pushName: 'Relaciones Institucionales',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19006287_1038510968421348_2681457394593649206_n.enc?ccb=11-4&oh=01_Q5Aa1gHDrN6V3a-OiQEVTranTC3yiMO9Cjlv50lFiugfEkj7xQ&oe=686A90C2&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19006287_1038510968421348_2681457394593649206_n.enc?ccb=11-4&oh=01_Q5Aa1gHDrN6V3a-OiQEVTranTC3yiMO9Cjlv50lFiugfEkj7xQ&oe=686A90C2&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Relaciones Institucionales',
+  body: '_event_voice_note__3ca7d2b7-bb8e-4914-967d-4f93ccad9f35',
+  name: 'Relaciones Institucionales',
+  from: '5492213091076',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_537a0ec5-c4ca-4f50-926f-aa4f217eae2d',
+  keyword: 'key_1133c8f5-e681-43e1-8e5e-3690d0a7fb6a',
+  answer: 'Por favor envía solo mensajes de texto. No puedo escuchar audios en este momento.',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9c86d623e0b37040a49e32108c12133e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492213091076@s.whatsapp.net',
+    fromMe: false,
+    id: '774ECC71C2A6BB0E3E78D9DD63C129B2',
+    participant: undefined
+  },
+  messageTimestamp: 1749234711,
+  pushName: 'Relaciones Institucionales',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bueno',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Relaciones Institucionales',
+  body: 'Bueno',
+  name: 'Relaciones Institucionales',
+  from: '5492213091076',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492213091076@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB007C346F1A1E6ACE006',
+    participant: undefined
+  },
+  messageTimestamp: 1749234713,
+  pushName: 'Relaciones Institucionales',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola! 😊 Éste es el número de IMAR, decime en qué te ayudo?'
+    }
+  },
+  verifiedBizName: 'Relaciones Institucionales',
+  body: 'Hola! 😊 Éste es el número de IMAR, decime en qué te ayudo?',
+  name: 'Relaciones Institucionales',
+  from: '5492213091076',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492213091076@s.whatsapp.net',
+    fromMe: false,
+    id: '605BD0AB8B8852A5960A9790B201475E',
+    participant: undefined
+  },
+  messageTimestamp: 1749234737,
+  pushName: 'Relaciones Institucionales',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Relaciones Institucionales',
+  body: 'Hola',
+  name: 'Relaciones Institucionales',
+  from: '5492213091076',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492215734874@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACE98D62A911FA76B1D',
+    participant: undefined
+  },
+  messageTimestamp: 1749234780,
+  pushName: 'Euge🌈',
+  broadcast: false,
+  message: Message {
+    conversation: 'Obvio amigo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Obvio amigo',
+  name: 'Euge🌈',
+  from: '5492215734874',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492215734874@s.whatsapp.net',
+    fromMe: false,
+    id: '3A12BEF2C9259C431C5F',
+    participant: undefined
+  },
+  messageTimestamp: 1749234784,
+  pushName: 'Euge🌈',
+  broadcast: false,
+  message: Message {
+    conversation: 'Más vale',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Más vale',
+  name: 'Euge🌈',
+  from: '5492215734874',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492215734874@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADC3AAEAB649E7370EA',
+    participant: undefined
+  },
+  messageTimestamp: 1749234787,
+  pushName: 'Euge🌈',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola gordo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola gordo',
+  name: 'Euge🌈',
+  from: '5492215734874',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492215734874@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABDDECFA847CDEBC2E4',
+    participant: undefined
+  },
+  messageTimestamp: 1749234792,
+  pushName: 'Euge🌈',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te paso el mío',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Te paso el mío',
+  name: 'Euge🌈',
+  from: '5492215734874',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492215734874@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4FC074F7E0C5843BA5',
+    participant: undefined
+  },
+  messageTimestamp: 1749234795,
+  pushName: 'Euge🌈',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ya',
+  name: 'Euge🌈',
+  from: '5492215734874',
+  host: '5492214371684'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_609a2cca-2331-4462-997b-d84d3b1730f7',
+  keyword: 'key_122b1391-04a2-45f1-92d1-60dfe488b83e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e25789eee9e962b83a28262507ae9236'
+}
